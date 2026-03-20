@@ -1,5 +1,5 @@
 # KnockIT
-**Minecraft Version: 1.8**
+*Minecraft Version: 1.8*
 **KnockIT** is a fast-paced Minecraft minigame plugin where players battle on a small platform using knockback sticks. The goal is simple: **stay on the platform as long as possible while knocking others off.**
 
 ## Gameplay
