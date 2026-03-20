@@ -1,0 +1,6 @@
+name: KnockIT
+version: 1.0
+main: de.sofamann.knockit.main.Main
+
+commands:
+  knock:
